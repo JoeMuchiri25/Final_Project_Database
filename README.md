@@ -7,7 +7,7 @@ This database is designed to manage key operations in a hospital such as patient
 Entity-Relationship Diagram (ERD)
 The diagram illustrates relationships among core entities:
 
-![]()
+![ERD Diagram](https://github.com/JoeMuchiri25/Final_Project_Database/blob/259671d28a75f02778ff22f3e03842e2fe85f43d/ERD.jpeg)
 
 One-to-Many between:
 Departments → Doctors
@@ -48,4 +48,3 @@ Create database and tables
 Insert user roles and assign permissions
 Run sample queries
 
-An ERD diagram for clear visualization
